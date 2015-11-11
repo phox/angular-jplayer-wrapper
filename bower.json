@@ -20,7 +20,7 @@
     "README.MD"
   ],
   "dependencies": {
-      "jPlayer": "2.*",
+      "jplayer": "2.*",
       "angular": "~1.2.*"
   }
 }
